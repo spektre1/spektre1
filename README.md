@@ -1,6 +1,7 @@
 # Danielle MacDonald
 
-My current main project is maintaining and improving
-[BensmaiaLab](https://github.com/BensmaiaLab)'s code.
+I really like systems design, especially interactive design like in games. 
 
-The following is my lightly organized set of notes about everything else.
+I've worked with high speed video encoding systems, conversational AI/ML, and a little robotics for
+neuroscience research. My current hobby is seeing what sorts of interesting design we can do in
+virtual platforms like VR Chat.
